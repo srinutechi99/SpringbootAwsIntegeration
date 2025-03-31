@@ -41,7 +41,7 @@ public class EmployeeController {
 	public String welcomeTest() {
 		logger.trace("it is trace method welcome calling");
 		logger.info("wel come method is working");
-		return "WELCOME AWS EKS APPLICATION DEVELOPMENTTest"; 
+		return "WELCOME AWS EKS APPLICATION DEVELOPMENT AWS INTEGRATION"; 
 
 	}
 
